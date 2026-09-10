@@ -1,0 +1,11 @@
+{
+  "name": "burgundy-inn-suites-rewards",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  },
+  "devDependencies": {
+    "@netlify/functions": "latest"
+  }
+}
